@@ -58,7 +58,7 @@ export function Pagination({
             className="h-8 w-8 p-0"
           >
             <ChevronRight className="h-4 w-8" />
-            <span className="sr-only">Próxima página página</span>
+            <span className="sr-only">Próxima página</span>
           </Button>
           <Button
             onClick={() => onPageChange(pages - 1)}
