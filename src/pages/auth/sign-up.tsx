@@ -44,7 +44,7 @@ export function SignUp() {
         restaurantName: data.restaurantName,
       })
 
-      toast.success('Restaurante cadastrado com sucesso!.', {
+      toast.success('Restaurante cadastrado com sucesso!', {
         action: {
           label: 'Login',
           onClick: () => {
