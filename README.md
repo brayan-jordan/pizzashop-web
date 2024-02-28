@@ -4,9 +4,9 @@ Desenvolvi uma aplicação front-end que permite o controle eficiente dos pedido
 
 ### Vídeos
 
-![Vídeo simples da aplicação](https://raw.githubusercontent.com/brayan-jordan/pizzashop-web/master/docs/hero.gif)
-
 Vídeo simples da aplicação, já que o markdown só suporta arquivos no formato .gif. Para assistir ao vídeo em melhor resolução, [clique aqui](https://www.youtube.com/watch?v=oUp1l8ZdBhg).
+
+![Vídeo simples da aplicação](https://raw.githubusercontent.com/brayan-jordan/pizzashop-web/master/docs/hero.gif)
 
 ## Conceitos / ferramentas
 
