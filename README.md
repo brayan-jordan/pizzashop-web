@@ -2,6 +2,12 @@
 
 Desenvolvi uma aplicação front-end que permite o controle eficiente dos pedidos em uma pizzaria, fornecendo relatórios abrangentes sobre as transações, o desempenho dos itens do cardápio e outras métricas de receita.
 
+### Vídeos
+
+![Vídeo simples da aplicação](https://github.com/brayan-jordan/pizzashop-web/blob/main/docs/hero.gif?raw=true)
+
+Vídeo simples da aplicação, já que o markdown só suporta arquivos no formato .gif. Para assistir ao vídeo em melhor resolução, [clique aqui](https://www.youtube.com/watch?v=oUp1l8ZdBhg).
+
 ## Conceitos / ferramentas
 
 - [Radix UI](https://www.radix-ui.com/): Biblioteca utilizada para importar componentes acessíveis e pré-estilizados, proporcionando uma experiência de desenvolvimento mais eficiente e acessível.
